@@ -1,1 +1,0 @@
-print('no' if (x:=int(input())) % (v:=int(input())) else 'yes')

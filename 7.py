@@ -1,1 +1,0 @@
-print('yes' if (z:=input()) in 'aeiou' else 'no')

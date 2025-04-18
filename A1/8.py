@@ -1,0 +1,1 @@
+print('yes' if len((z:=input())) == 13 else 'no')

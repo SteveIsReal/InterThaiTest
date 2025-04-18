@@ -1,0 +1,1 @@
+print(f'{z}\npass' if (z:=(int(input())) + (int(input()))) > 50 else f'{z}\nfail')
